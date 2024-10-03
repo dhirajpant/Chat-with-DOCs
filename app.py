@@ -122,7 +122,7 @@ def main():
                     st.success("Done")
                 else:
                     st.error("No text could be extracted from the uploaded Files.")
-        st.write("This is made by using Google Generative AI (Gemini)")
+        st.write("This App is made by using Google Generative AI (Gemini)")
 
 if __name__ == "__main__":
     main()
